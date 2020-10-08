@@ -30,7 +30,7 @@
   "devDependencies": {
     "glob": "^7.1.6",
     "jshint": "^2.11.0",
-    "nyc": "^15.0.0",
+    "nyc": "^15.1.0",
     "tap": "^14.10.6"
   },
   "dependencies": {
